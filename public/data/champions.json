@@ -1,0 +1,2904 @@
+[
+	{
+		"Name": "Abomination",
+		"Klasse": "Forschung",
+		"Image": "051",
+		"Tags": [
+			"#Defensiv:Panzer",
+			"#Schurke",
+			"#Gamma",
+			"#Größe XL",
+			"#Chronos Corps",
+			"#Blitzschläge",
+			"#AW:Trotz",
+			"#2014"
+		],
+		"Skills": [
+			"Vergiftung",
+			"Wutausbruch",
+			"Immun gegen Vergiftung"
+		],
+		"Immunities": [
+				"Gift"
+		]
+	},
+	{
+		"Name": "Abomination (Unsterblich)",
+		"Klasse": "Forschung",
+		"Image": "196",
+		"Tags": [
+				"#Offensiv:Schaden über einen gewissen Zeitraum",
+				"#Defensiv:Panzer",
+				"#Schurke",
+				"#Gamma",
+				"#Größe:XL",
+				"#AW:Trotz",
+				"#Carinas Herausforderer",
+				"#RAIDS:Avantgarde",
+				"#2020"
+		],
+		"Skills": [
+			"S\u00E4ureverbrennung",
+			"Erschöpfung",
+			"Versteinern",
+			"Vergiftung"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Absorbing Man",
+		"Klasse": "Mystisch",
+		"Image": "254",
+		"Tags": [
+			"#Defensiv:Panzer",
+			"#Offensiv:Schub",
+			"#Schurke",
+			"#Gamma",
+			"#Größe:L",
+			"#Söldner",
+			"#EQ:Romantik",
+			"#Culs Würdigkeit",
+			"#RAIDS:Avantgarde",
+			"#2023"
+		],
+		"Skills": [
+			"Reduzierung der Buff-Dauer",
+			"Verwundbarkeit",
+			"Schwarze Uru-Form",
+			"Magna-Form"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Adam Warlock",
+		"Klasse": "Kosmos",
+		"Image": "271",
+		"Tags": [
+			"#Offensiv:grober Schaden",
+			"#Defensiv:Nutzen",
+			"#Held",
+			"#Fliegend",
+			"#Ansteigende Kraft",
+			"#Größe:M",
+			"#Magischer Dieb",
+			"#Klarheit",
+			"#2023",
+			"#Saga-Champions"
+		],
+		"Skills": [
+			"Unabwehrbar",
+			"Totalschaden",
+			"Präzision",
+			"Wutausbruch"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Aegon",
+		"Klasse": "Talent",
+		"Image": "130",
+		"Tags": [
+			"#Offensiv: grober Schaden",
+			"#Held",
+			"#Größe: M",
+			"#Klarheit",
+			"#RAIDS:Angriff",
+			"#2018",
+			"#Saga-Champions"
+		],
+		"Skills": [
+			"Beharrlichkeit",
+			"Combo-Schild",
+			"Wutausbruch",
+			"Blutrausch"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Agent Venom",
+		"Klasse": "Talent",
+		"Image": "014",
+		"Tags": [
+			"#Offensiv:Schaden über gewissen Zeitraum",
+			"#Held",
+			"#Größe:M",
+			"#EQ:Romantik",
+			"#Guardian of the Galaxy",
+			"#Blitzschläge",
+			"#Symbiont",
+			"#AW:Trotz",
+			"#Magischer Dieb",
+			"#2018"
+		],
+		"Skills": [
+			"Beharrlichkeit",
+			"Symbiontenschlau",
+			"Blutrausch",
+			"Einäschern"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Air-Walker",
+		"Klasse": "Kosmos",
+		"Image": "186",
+		"Tags": [
+			"#Kontrolle:Konter",
+			"#Schurke",
+			"#Fliegend",
+			"#Größe:L",
+			"#Metall",
+			"#2020"
+		],
+		"Skills": [
+			"Kosmische Kräfte",
+			"Der Dunkle Strom",
+			"Rüstungsbruch",
+			"Die Kraft des Galactus"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "America Chavez",
+		"Klasse": "Mystisch",
+		"Image": "223",
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Held",
+			"#Größe:M",
+			"#Dimensionswesen",
+			"#Blitzschläge",
+			"#Young Avengers",
+			"#AW:Plattmachen",
+			"#2021"
+		],
+		"Skills": [
+			"Utopische Parallele",
+			"Dunkle Dimension",
+			"Negativzone",
+			"Dimensionsenergieinfusion"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Angela",
+		"Klasse": "Kosmos",
+		"Image": "085",
+		"Tags": [
+			"#Offensiv: grober Schaden",
+			"#Held",
+			"#Metall",
+			"#Größe:S",
+			"#Gott",
+			"#EQ:Romantik",
+			"#AW:Verfall",
+			"#Klarheit",
+			"#RAIDS:Taktiker",
+			"#2017",
+			"#Saga-Champions"
+		],
+		"Skills": [
+			"Präzision",
+			"Rüstungsbruch",
+			"Wutausbruch",
+			"Rüstung"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Annihilus",
+		"Klasse": "Kosmos",
+		"Image": "140",
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Schurke",
+			"#Größe:M",
+			"#Metall",
+			"#2019"
+		],
+		"Skills": [
+			"Kosmischer Steuerstab",
+			"Rüstungsbruch",
+			"Abwürgen",
+			"Unaufhaltsam"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Anti-Venom",
+		"Klasse": "Forschung",
+		"Image": "212",
+		"Tags": [
+			"#Offensiv: grober Schaden",
+			"#Größe:L",
+			"#Symbiont",
+			"#AW:Verfall",
+			"#2021"
+		],
+		"Skills": [
+			"Schreckgespenst",
+			"Desorientierung",
+			"Abbremsen",
+			"Wutausbruch"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Ant-Man",
+		"Klasse": "Forschung",
+		"Image": "052",
+		"Tags": [
+			"#Defensiv:Panzer",
+			"#Held",
+			"#Metall",
+			"#Größe:M",
+			"#Avengers",
+			"#AW:Verfall",
+			"#2015"
+		],
+		"Skills": [
+			"Powerstich",
+			"Ermüdung",
+			"Vergiftung",
+			"Versteinern"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Ant-Man (Zukunft)",
+		"Klasse": "Technologie",
+		"Image": "265",
+		"Tags": [
+			"#Defensiv:Panzer",
+			"#Kontrolle:Verweigerung",
+			"#Held",
+			"#Metall",
+			"#Größe:M",
+			"#Dimensionswesen",
+			"#AW:Rüstungsentkräftung",
+			"#Haus der Spiegel",
+			"#RAIDS:Avantgarde",
+			"#2023",
+			"#Saga-Champions"
+		],
+		"Skills": [
+			"Abprallen",
+			"Kraftexplosion",
+			"Zerfall",
+			"Rüstung"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Apocalypse",
+		"Klasse": "Mutant",
+		"Image": "193",
+		"Tags": [
+			"#Offensiv: Schaden über gewissen Zeitraum",
+			"#Defensiv:Panzer",
+			"#Metall",
+			"#Schurke",
+			"#Größe:XL",
+			"#2020"
+		],
+		"Skills": [
+			"Blutrausch",
+			"Erschöpfung",
+			"Vergiftung",
+			"Gehirnerschütterung"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Arcade",
+		"Klasse": "Technologie",
+		"Image": "290",
+		"Tags": [
+			"#Offensiv:Schaden über einen gewissen Zeitraum",
+			"#Defensiv:Schutz",
+			"Größe:M",
+			"#Schurke",
+			"#Haus der Spiegel",
+			"#2024",
+			"#Saga-Verteidiger"
+		],
+		"Skills": [
+			"Arcade Token",
+			"Automatische Abwehr",
+			"Schock",
+			"Giftige Wolke",
+			"Sprengfalle",
+			"Einäschern",
+			"Blutrausch"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Archangel",
+		"Klasse": "Mutant",
+		"Image": "032",
+		"Tags": [
+			"#Offensiv:Schaden über gewissen Zeitraum",
+			"#Held",
+			"#Metall",
+			"#Größe:M",
+			"#EQ:Romantik",
+			"#X-Men",
+			"#X-Force",
+			"#2017"
+		],
+		"Skills": [
+			"Neurotoxin",
+			"Blutrausch",
+			"Vergiftung",
+			"Lähmung"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Attuma",
+		"Klasse": "Talent",
+		"Image": "246",
+		"Tags": [
+			"#Offensiv:grober Schaden",
+			"#Schurke",
+			"#Größe:L",
+			"#Culs Würdigkeit",
+			"#Klarheit",
+			"#2022",
+			"#Saga-Champions"
+		],
+		"Skills": [
+			"Umkehrung der Genauigkeiten der Fähigkeiten",
+			"Dornen",
+			"Säuberung",
+			"Echte Genauigkeit"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Auserw\u00E4hlter Symbioid",
+		"Klasse": "Spezial",
+		"Image": "000",
+		"Tags": [
+			"#Defensiv:Nutzen",
+			"#Größe:L",
+			"#Symbiont"
+		],
+		"Skills": [
+			"Blutrausch",
+			"Erschöpfung",
+			"Rüstungsbruch"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Baron Zemo",
+		"Klasse": "Talent",
+		"Image": "253",
+		"Tags": [
+			"#Offensiv:Schaden über gewissen Zeitraum",
+			"#Kontrolle:Verweigerung",
+			"#Schurke",
+			"#Metall",
+			"#Größe:M",
+			"#Blitzschläge",
+			"#Magischer Dieb",
+			"#2023"
+		],
+		"Skills": [
+			"Blutrausch",
+			"Reinigung",
+			"Anwurzeln",
+			"Abbremsen",
+			"Desorientieren",
+			"Entzweien"
+			
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Beast",
+		"Klasse": "Mutant",
+		"Image": "001",
+		"Tags": [
+			"#Offensiv grober Schaden",
+			"#Held",
+			"#Größe:L",
+			"#X-Men",
+			"#Illuminati",
+			"#2016"
+			
+		],
+		"Skills": [
+			"Resistenz gegen Blutrausch",
+			"Freestyle-Kampfmodus",
+			"Akrobatischer Kampf",
+			"Lähmung"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Beta Ray Bill",
+		"Klasse": "Kosmos",
+		"Image": "305",
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Held",
+			"#Größe:L",
+			"#Metall",
+			"#Guardians of the Galaxy",
+			"#Klarheit",
+			"#2024",
+			"#Saga-Champions"
+		],
+		"Skills": [
+			"Intensivieren",
+			"Mumm",
+			"Schock",
+			"Wutausbruch",
+			"Energie tanken"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Bishop",
+		"Klasse": "Mutant",
+		"Image": "002",
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Held",
+			"#Größe:L",
+			"#X-Men",
+			"#X-Magica",
+			"#2018"
+		],
+		"Skills": [
+			"Tapferkeit",
+			"Regeneration",
+			"Unabwehrbar",
+			"Einäschern"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Black Bolt",
+		"Klasse": "Kosmos",
+		"Image": "086",
+		"Tags": [
+			"#Offensiv:grober Schaden",
+			"#Held",
+			"#Größe:M",
+			"#Illuminati",
+			"#Inhuman",
+			"#Königliche Familie der Inhumans",
+			"#2014"
+		],
+		"Skills": [
+			"Immun gegen Vergiftung",
+			"Rüstungsbruch",
+			"Lähmung",
+			"Direktschaden"
+		],
+		"Immunities": []
+	},	
+	{
+		"Name": "Black Panther",
+		"Klasse": "Talent",
+		"Image": "013",
+		"Tags": [
+			"#Offensiv: Schaden über gewissen Zeitraum",
+			"#Held",
+			"#Größe:M",
+			"#EQ:Romantik",
+			"#Illuminati",
+			"#Avengers",
+			"#RAIDS:Avantgarde",
+			"#2014"
+		],
+		"Skills": [
+			"Blutrausch",
+			"Grausamkeit",
+			"Panthermacht",
+			"Präzision"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Black Panther (Civil War)",
+		"Klasse": "Talent",
+		"Image": "012",
+		"Tags": [
+			"#Offensiv:Schutz",
+			"#Held",
+			"#Größe:M",
+			"#Avengers",
+			"#Magischer Dieb",
+			"#2016"
+		],
+		"Skills": [
+			"Rüstung",
+			"Reflektierende Rüstung",
+			"Gegenlähmung",
+			"Blutrausch",
+			"Lähmung"
+			
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Black Widow",
+		"Klasse": "Talent",
+		"Image": "015",
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Söldner",
+			"#Held",
+			"#Größe:S",
+			"#EQ:Romantik",
+			"#S.H.I.L.D.",
+			"#Champions",
+			"#Avengers",
+			"#2015"
+		],
+		"Skills": [
+			"Ausweichen",
+			"Präzision",
+			"Grausamkeit",
+			"Lähmung"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Black Widow (Claire Voyant)",
+		"Klasse": "Mystisch",
+		"Image": "159",
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Kontrolle: Verweigerung",
+			"#Held",
+			"#Größe:S",
+			"#X-Magica",
+			"#2019"
+		],
+		"Skills": [
+			"Kraftraub",
+			"Regeneration",
+			"Auslöschen",
+			"Todesstoß"
+			
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Black Widow (Deadly Origin)",
+		"Klasse": "Talent",
+		"Image": "180",
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Söldner",
+			"#Held",
+			"#Größe:S",
+			"#EQ:Es ist kompliziert",
+			"#S.H.I.E.L.D.",
+			"#Champions",
+			"#Avengers",
+			"#Magischer Dieb",
+			"#Klarheit",
+			"#RAIDS:Angriff",
+			"#2020",
+			"#Saga-Champions"
+		],
+		"Skills": [
+			"Schock",
+			"Einsicht der Witwe",
+			"Präzision",
+			"Ausweichen",
+			"Sabotage",
+			"Grausamkeit"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Blade",
+		"Klasse": "Talent",
+		"Image": "003",
+		"Tags": [
+			"#Defensiv:Nutzen",
+			"#Held",
+			"#Größe:M",
+			"#Silber",
+			"#Migthy Avengers",
+			"#AW:Verfall",
+			"#Magischer Dieb",
+			"#Klarheit",
+			"#RAIDS:Angriff",
+			"#2017",
+			"#Saga-Angreifer"
+		],
+		"Skills": [
+			"Kraftzufuhr",
+			"Gefahrenspürsinn",
+			"Blutrausch"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Bullseye",
+		"Klasse": "Talent",
+		"Image": "291",
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Schurke",
+			"#Söldner",
+			"#Größe:M",
+			"#Blitzschläge",
+			"#Magischer Dieb",
+			"#Klarheit",
+			"#2024",
+			"#Saga-Champions"
+		],
+		"Skills": [
+			"Grausamkeit",
+			"Blutrausch",
+			"Ausweichen",
+			"Wutausbruch",
+			"Echte Genauigkeit",
+			"Einschlag"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Cable",
+		"Klasse": "Mutant",
+		"Image": "033",
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Held",
+			"#Metall",
+			"#Größe:L",
+			"#EQ:Es ist kompliziert",
+			"#X-Men",
+			"#X-Force",
+			"#2017"
+		],
+		"Skills": [
+			"Regeneration",
+			"Einäschern",
+			"Gehirnerschütterung",
+			"Volltreffer"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Captain America",
+		"Klasse": "Forschung",
+		"Image": "053",
+		"Tags": [
+			"#Defensiv:Schutz",
+			"#Held",
+			"#Größe:M",
+			"#EQ:Romantik",
+			"#Avengers",
+			"#S.H.I.E.L.D.",
+			"#2014"			
+		],
+		"Skills": [
+			"Perfekte Abwehr",
+			"Ermüdung",
+			"Lähmung"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Captain America (Infinity War)",
+		"Klasse": "Forschung",
+		"Image": "054",
+		"Tags": [
+			"#Defensiv:Nutzen",
+			"#Held",
+			"#Größe:M",
+			"#EQ:Romantik",
+			"#Avengers",
+			"#Carinas Herausorderer",
+			"#2018"
+		],
+		"Skills": [
+			"Kinetisches Potential",
+			"Wutausbruch",
+			"Physische Resistenz",
+			"Energieresistenz",
+			"Blutrausch",
+			"Lähmung"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Captain America (Sam Wilson)",
+		"Klasse": "Technologie",
+		"Image": "224",
+		"Tags": [
+			"#Kontrolle:Verweigerung",
+			"#Held",
+			"#Größe:M",
+			"#Avengers",
+			"#Migthy Avengers",
+			"#AW:Plattmachen",
+			"#AW:Rüstungsentkräftung",
+			"#Wegducken",
+			"#2022",
+			"#Saga-Champions"
+		],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Captain America (WWII)",
+		"Klasse": "Forschung",
+		"Image": "055",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Captain Britain",
+		"Klasse": "Kosmos",
+		"Image": "228",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Captain Marvel",
+		"Klasse": "Kosmos",
+		"Image": "087",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Captain Marvel (Klassisch)",
+		"Klasse": "Kosmos",
+		"Image": "088",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Carnage",
+		"Klasse": "Kosmos",
+		"Image": "089",
+		"Tags": [
+			"#Offensiv:grober Schaden",
+			"#Schurke",
+			"#Symbiont",
+			"#Größe:M",
+			"#2017"
+		],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Cassie Lang",
+		"Klasse": "Technologie",
+		"Image": "266",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Champion des Universums",
+		"Klasse": "Kosmos",
+		"Image": "090",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Chee`ilth",
+		"Klasse": "Talent",
+		"Image": "287",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Civil Warrior",
+		"Klasse": "Technologie",
+		"Image": "113",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Colossus",
+		"Klasse": "Mutant",
+		"Image": "004",
+		"Tags": [
+			"#Defensiv:Schutz",
+			"#Held",
+			"#Metall",
+			"#Größe:L",
+			"#EQ:Romantik",
+			"#X-Men",
+			"#X-Force",
+			"#AW:Rüstungsentfkräftung",
+			"#X-Magica",
+			"#RAIDS:Avantgarde",
+			"#2014"
+		],
+		"Skills": [
+			"Immun gegen Blutrausch",
+			"Rüstung",
+			"L\u00E4hmung",
+			"Ermüdung"
+		],
+		"Immunities": [
+			"Blutrausch",
+			"Ein\u00E4schern",
+			"Kälteeinbruch",
+			"Frostbeule",
+			"Rüstungsbruch",
+			"Zerschmetterte Rüstung"
+		]
+	},
+	{
+		"Name": "Corvus Glaive",
+		"Klasse": "Kosmos",
+		"Image": "091",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Crossbones",
+		"Klasse": "Talent",
+		"Image": "016",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Cull Obisidian",
+		"Klasse": "Kosmos",
+		"Image": "141",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Cyclops (Blaues Team)",
+		"Klasse": "Mutant",
+		"Image": "034",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Cyclops (New Xacier School)",
+		"Klasse": "Mutant",
+		"Image": "035",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Dani Morningstar",
+		"Klasse": "Mutant",
+		"Image": "280",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Daredevil (Hells Kitchen)",
+		"Klasse": "Talent",
+		"Image": "017",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Daredevil (Klassisch)",
+		"Klasse": "Talent",
+		"Image": "018",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Darkhawk",
+		"Klasse": "Technologie",
+		"Image": "142",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Das Ding",
+		"Klasse": "Forschung",
+		"Image": "109",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Deadpool",
+		"Klasse": "Mutant",
+		"Image": "131",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Deadpool (X-Force)",
+		"Klasse": "Mutant",
+		"Image": "036",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Der Alte Logan",
+		"Klasse": "Mutant",
+		"Image": "132",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Der Aufseher",
+		"Klasse": "Forschung",
+		"Image": "226",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Der Destroyer",
+		"Klasse": "Mystisch",
+		"Image": "297",
+		"Tags": [
+			"#Defensiv:Panzer",
+			"#Psychische Abschirmung",
+			"#Größe:XL",
+			"#X-Magica",
+			"#2024"
+		],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Der Geier",
+		"Klasse": "Technologie",
+		"Image": "114",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Der Leader",
+		"Klasse": "Forschung",
+		"Image": "308",
+		"Tags": [
+			"#Offensiv:Schaden über gewissen Zeitraum",
+			"#Defensiv:Schutz",
+			"#Metall",
+			"#Schurke",
+			"#Gamma",
+			"#Größe:M",
+			"#Wegducken",
+			"#2024",
+			"#Saga-Champions"
+		],
+		"Skills": [
+			"Immun gegen Vergiftung",
+			"Schreckgespenst",
+			"Verdorren",
+			"Wutausbruch",
+			"Vitalität",
+			"Kraftauflösung",
+			"Degeneration"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Der Maulwurf",
+		"Klasse": "Talent",
+		"Image": "174",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Diablo",
+		"Klasse": "Mystisch",
+		"Image": "112",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Die Menschliche Fackel",
+		"Klasse": "Forschung",
+		"Image": "110",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Die Unsichtbare",
+		"Klasse": "Forschung",
+		"Image": "153",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Doktor Doom",
+		"Klasse": "Mystisch",
+		"Image": "164",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Doktor Octopus",
+		"Klasse": "Technologie",
+		"Image": "115",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": [
+			"Rüstungsbruch",
+			"Zerschmetterte Rüstung",
+			"Schock"
+		]
+	},
+	{
+		"Name": "Doktor Strange",
+		"Klasse": "Mystisch",
+		"Image": "071",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Doktor Voodoo",
+		"Klasse": "Mystisch",
+		"Image": "072",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Domino",
+		"Klasse": "Mutant",
+		"Image": "037",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Dormammu",
+		"Klasse": "Mystisch",
+		"Image": "073",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Dragon Man",
+		"Klasse": "Mystisch",
+		"Image": "187",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Drax",
+		"Klasse": "Kosmos",
+		"Image": "005",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Dust",
+		"Klasse": "Mutant",
+		"Image": "302",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Ebony Maw",
+		"Klasse": "Mystisch",
+		"Image": "143",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Electro",
+		"Klasse": "Forschung",
+		"Image": "056",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Elektra",
+		"Klasse": "Talent",
+		"Image": "019",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Elsa Bloodstone",
+		"Klasse": "Talent",
+		"Image": "162",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Emma Frost",
+		"Klasse": "Mutant",
+		"Image": "038",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Enchantress",
+		"Klasse": "Mystisch",
+		"Image": "304",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Falcon",
+		"Klasse": "Talent",
+		"Image": "006",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Fegefeuer",
+		"Klasse": "Mystisch",
+		"Image": "207",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Galan",
+		"Klasse": "Kosmos",
+		"Image": "242",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Gambit",
+		"Klasse": "Mutant",
+		"Image": "039",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Gamora",
+		"Klasse": "Kosmos",
+		"Image": "092",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Ghost",
+		"Klasse": "Technologie",
+		"Image": "116",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Ghost Rider",
+		"Klasse": "Mystisch",
+		"Image": "074",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Gladiator",
+		"Klasse": "Kosmos",
+		"Image": "281",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Goldpool",
+		"Klasse": "Mutant",
+		"Image": "144",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Gorr",
+		"Klasse": "Kosmos",
+		"Image": "236",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name":"Graf Nefaria",
+		"Klasse":"Forschung",
+		"Image":"307",
+		"Tags":[
+			"#Offensiv:Schub",
+			"#Schurke",
+			"#Fliegend",
+			"#Größe:M",
+			"#Secutor",
+			"#2024",
+			"#Saga-Champions"
+		],
+		"Skills":[
+			"Energieaufbau",
+			"Ausweichen",
+			"Ionische Überladung",
+			"Kraftzufuhr",
+			"Einäschern"
+		],
+		"Immunities":[
+			"Kraftraub",
+			"Blutrausch",
+			"90% Schock",
+			"90% Einäschern"
+		]
+	},
+	{
+		"Name": "Green Goblin",
+		"Klasse": "Technologie",
+		"Image": "145",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Groot",
+		"Klasse": "Kosmos",
+		"Image": "093",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Guardian",
+		"Klasse": "Technologie",
+		"Image": "185",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": [],
+		"Special":"Weapon Alpha Passiv <ul><li>Erhalte pro aktiven Aufrüstungseffekt die folgenden Effekte:</li><li>+XXX.XX Abwehreffizienz</li><li>+xxxx.xx Energieresistenz</li><li>+XX.xx% Blutrauschresistenz</li><li>+XXX.xx Kritischer-Schaden-Resistenz</li></ul>",
+		"Skills":[
+			{
+				"Name":"Passiv"				
+			}]
+	},
+	{
+		"Name": "Guillotine",
+		"Klasse": "Mystisch",
+		"Image": "007",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Guillotine (Deathless)",
+		"Klasse": "Mystisch",
+		"Image": "289",
+		"Tags": [""],
+		"Skills": [
+			"Degeneration",
+			"Gespenst"
+		],
+		"Immunities": []
+	},
+	{
+		"Name": "Guillotine 2099",
+		"Klasse": "Technologie",
+		"Image": "163",
+		"Tags": [
+			"Roboter"
+		],
+		"Skills": [
+			
+		],
+		"Immunities": [
+			"Blutrausch",
+			"Gift"
+		]
+	},
+	{
+		"Name": "Gwenpool",
+		"Klasse": "Talent",
+		"Image": "020",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Havok",
+		"Klasse": "Mutant",
+		"Image": "125",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Hawkeye",
+		"Klasse": "Talent",
+		"Image": "021",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Heimdall",
+		"Klasse": "Kosmos",
+		"Image": "094",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Hela",
+		"Klasse": "Kosmos",
+		"Image": "095",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Herkules",
+		"Klasse": "Kosmos",
+		"Image": "219",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Hit-Monkey",
+		"Klasse": "Talent",
+		"Image": "183",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Howard die Ente",
+		"Klasse": "Technologie",
+		"Image": "117",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Hulk",
+		"Klasse": "Forschung",
+		"Image": "057",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Hulk (Ragnarök)",
+		"Klasse": "Forschung",
+		"Image": "058",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Hulk (Unsterblich)",
+		"Klasse": "Forschung",
+		"Image": "194",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Hulkbuster",
+		"Klasse": "Technologie",
+		"Image": "118",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Hulkling",
+		"Klasse": "Kosmos",
+		"Image": "232",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Hyperion",
+		"Klasse": "Kosmos",
+		"Image": "096",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Iceman",
+		"Klasse": "Mutant",
+		"Image": "040",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Ikaris",
+		"Klasse": "Kosmos",
+		"Image": "214",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Iron Fist",
+		"Klasse": "Mystisch",
+		"Image": "075",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Iron Fist (Immortal)",
+		"Klasse": "Mystisch",
+		"Image": "217",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Iron Man",
+		"Klasse": "Technologie",
+		"Image": "119",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Iron Man (Infamous)",
+		"Klasse": "Technologie",
+		"Image": "245",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Iron Man (Infinity War)",
+		"Klasse": "Technologie",
+		"Image": "120",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Iron Patriot",
+		"Klasse": "Technologie",
+		"Image": "121",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Ironheart",
+		"Klasse": "Technologie",
+		"Image": "296",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Jabari Panther",
+		"Klasse": "Talent",
+		"Image": "203",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Jack O'Lantern",
+		"Klasse": "Technologie",
+		"Image": "000",
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Schurke",
+			"#Physische Abschirmung",
+			"#Größe:M",
+			"#2024"
+		],
+		"Skills": [
+			"Plasma",
+			"Entflammt",
+			"Einäschern",
+			"Vergiftung",
+			"Einäscherungsimmunität",
+			"Umgekehrte Steuerung-Immunität"
+		],
+		"Immunities": [
+			"Einäschern",
+			"Umgekehrte Steuerung"
+		]
+	},
+	{
+		"Name": "Jessica Jones",
+		"Klasse": "Forschung",
+		"Image": "251",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Joe Fixit",
+		"Klasse": "Forschung",
+		"Image": "059",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Jubilee",
+		"Klasse": "Mutant",
+		"Image": "198",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Juggernaut",
+		"Klasse": "Mystisch",
+		"Image": "076",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Kang",
+		"Klasse": "Technologie",
+		"Image": "146",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Karnak",
+		"Klasse": "Talent",
+		"Image": "022",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Kate Bishop",
+		"Klasse": "Talent",
+		"Image": "268",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Killmonger",
+		"Klasse": "Talent",
+		"Image": "023",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Kindred",
+		"Klasse": "Mystisch",
+		"Image": "278",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": [
+			"Gift",
+			"Einäschern",
+			"Heilblockade",
+			"Weißglut",
+			"Einschüchterung"
+		]
+	},
+	{
+		"Name": "Kingpin",
+		"Klasse": "Talent",
+		"Image": "024",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Kitty Pryde",
+		"Klasse": "Mutant",
+		"Image": "211",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Knull",
+		"Klasse": "Kosmos",
+		"Image": "213",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "könig Groot",
+		"Klasse": "Kosmos",
+		"Image": "097",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "könig Groot (Todlos)",
+		"Klasse": "Kosmos",
+		"Image": "295",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Korg",
+		"Klasse": "Talent",
+		"Image": "025",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Kosmischer Ghost Rider",
+		"Klasse": "Kosmos",
+		"Image": "190",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": [
+			"Blutrausch",
+			"Einäschern"
+		]
+	},
+	{
+		"Name": "Kraven",
+		"Klasse": "Talent",
+		"Image": "222",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Kushala",
+		"Klasse": "Mystisch",
+		"Image": "280",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Lady Deathstrike",
+		"Klasse": "Technologie",
+		"Image": "279",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Loki",
+		"Klasse": "Mystisch",
+		"Image": "077",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Longshot",
+		"Klasse": "Mystisch",
+		"Image": "172",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Luke Cage",
+		"Klasse": "Forschung",
+		"Image": "060",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "M.O.D.O.K.",
+		"Klasse": "Forschung",
+		"Image": "061",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Maestro",
+		"Klasse": "Kosmos",
+		"Image": "288",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Magik",
+		"Klasse": "Mystisch",
+		"Image": "008",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Magneto",
+		"Klasse": "Mutant",
+		"Image": "041",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Magneto (House of X)",
+		"Klasse": "Mutant",
+		"Image": "042",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Mangog",
+		"Klasse": "Mystisch",
+		"Image": "197",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Man-Thing",
+		"Klasse": "Mystisch",
+		"Image": "161",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Mantis",
+		"Klasse": "Talent",
+		"Image": "252",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Masacre",
+		"Klasse": "Talent",
+		"Image": "026",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Medusa",
+		"Klasse": "Kosmos",
+		"Image": "098",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Megasonic Teenage Warhead",
+		"Klasse": "Mutant",
+		"Image": "294",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Mephisto",
+		"Klasse": "Mystisch",
+		"Image": "147",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Mister Fantastic",
+		"Klasse": "Forschung",
+		"Image": "165",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Mister Negative",
+		"Klasse": "Forschung",
+		"Image": "206",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Mister Sinister",
+		"Klasse": "Mutant",
+		"Image": "126",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Misty Knight",
+		"Klasse": "Talent",
+		"Image": "225",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Mojo",
+		"Klasse": "Mystisch",
+		"Image": "173",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Moon Knight",
+		"Klasse": "Talent",
+		"Image": "027",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Moondragon",
+		"Klasse": "Talent",
+		"Image": "272",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Morbius",
+		"Klasse": "Forschung",
+		"Image": "282",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Mordo",
+		"Klasse": "Mystisch",
+		"Image": "078",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Morningstar",
+		"Klasse": "Mystisch",
+		"Image": "079",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Ms. Marvel",
+		"Klasse": "Kosmos",
+		"Image": "099",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Ms. Marvel (Kamala Khan)",
+		"Klasse": "Kosmos",
+		"Image": "100",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Mysterio",
+		"Klasse": "Technologie",
+		"Image": "158",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Namor",
+		"Klasse": "Mutant",
+		"Image": "152",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Nebula",
+		"Klasse": "Technologie",
+		"Image": "122",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Nick Fury",
+		"Klasse": "Talent",
+		"Image": "111",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Night Thrasher",
+		"Klasse": "Talent",
+		"Image": "127",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Nightcrawler",
+		"Klasse": "Mutant",
+		"Image": "043",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Nimrod",
+		"Klasse": "Technologie",
+		"Image": "210",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Northstar",
+		"Klasse": "Mutant",
+		"Image": "293",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Nova",
+		"Klasse": "Kosmos",
+		"Image": "169",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Odin",
+		"Klasse": "Kosmos",
+		"Image": "199",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Omega Red",
+		"Klasse": "Mutant",
+		"Image": "044",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Omega Sentinel",
+		"Klasse": "Technologie",
+		"Image": "229",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Onslaught",
+		"Klasse": "Mutant",
+		"Image": "303",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Patriot",
+		"Klasse": "Talent",
+		"Image": "309",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Peni Parker",
+		"Klasse": "Technologie",
+		"Image": "208",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Phoenix",
+		"Klasse": "Kosmos",
+		"Image": "101",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Photon",
+		"Klasse": "Forschung",
+		"Image": "283",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Platinpool",
+		"Klasse": "Mutant",
+		"Image": "192",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Professor X",
+		"Klasse": "Mutant",
+		"Image": "191",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Prowler",
+		"Klasse": "Technologie",
+		"Image": "292",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Proxima Midnight",
+		"Klasse": "Kosmos",
+		"Image": "102",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Psycho-Man",
+		"Klasse": "Technologie",
+		"Image": "202",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Psylocke",
+		"Klasse": "Mutant",
+		"Image": "045",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Punisher",
+		"Klasse": "Talent",
+		"Image": "028",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Punisher 2099",
+		"Klasse": "Technologie",
+		"Image": "123",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Quake",
+		"Klasse": "Forschung",
+		"Image": "062",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Quicksilver",
+		"Klasse": "Forschung",
+		"Image": "243",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Red Goblin",
+		"Klasse": "Kosmos",
+		"Image": "188",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Red Guardian",
+		"Klasse": "Forschung",
+		"Image": "179",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Red Skull",
+		"Klasse": "Technologie",
+		"Image": "133",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Rhino",
+		"Klasse": "Forschung",
+		"Image": "063",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Rintrah",
+		"Klasse": "Mystisch",
+		"Image": "235",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Rocket Racoon",
+		"Klasse": "Technologie",
+		"Image": "124",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Rogue",
+		"Klasse": "Mutant",
+		"Image": "046",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Ronan",
+		"Klasse": "Kosmos",
+		"Image": "103",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Ronin",
+		"Klasse": "Talent",
+		"Image": "148",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Roter Hulk",
+		"Klasse": "Forschung",
+		"Image": "064",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Sabretooth",
+		"Klasse": "Mutant",
+		"Image": "047",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Sandman",
+		"Klasse": "Forschung",
+		"Image": "269",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Sasquatch",
+		"Klasse": "Mystisch",
+		"Image": "184",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Sauron",
+		"Klasse": "Mutant",
+		"Image": "221",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Scarlet Witch",
+		"Klasse": "Mystisch",
+		"Image": "218",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Scarlet Witch (Klassisch)",
+		"Klasse": "Mystisch",
+		"Image": "080",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Schwarze Katze",
+		"Klasse": "Talent",
+		"Image": "230",
+		"Tags": [
+			"#Offensiv:Schub",
+			"#Held",
+			"#Größe:S",
+			"#EQ:Romantik",
+			"#Klarheit",
+			"#RAIDS:Avantgarde",
+			"#2022",
+			"#Saga-Angreifer"
+		],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Sentinel",
+		"Klasse": "Technologie",
+		"Image": "134",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Sentry",
+		"Klasse": "Forschung",
+		"Image": "065",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Serpent",
+		"Klasse": "Kosmos",
+		"Image": "301",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Sersi",
+		"Klasse": "Kosmos",
+		"Image": "216",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Shang-Chi",
+		"Klasse": "Talent",
+		"Image": "205",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name":"Shathra",
+		"Klasse":"Mystisch",
+		"Image":"306",
+		"Tags":[
+			"#Offensiv:Schaden über gewissen Zeitraum",
+			"#Schurke",
+			"#Fliegend",
+			"#Dimensionswesen",
+			"#Gott",
+			"#Größe:L",
+			"#Provocator",
+			"#2024",
+			"#Saga-Champions"
+		],
+		"Skills":[
+			"Energieschaden",
+			"Kraftraub",
+			"Auslöschen",
+			"Schwund",
+			"Unabwehrbar",
+			"Regeneration"
+		],
+		"Immunities":[]
+	},
+	{
+		"Name": "She-Hulk",
+		"Klasse": "Forschung",
+		"Image": "139",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Shocker",
+		"Klasse": "Technologie",
+		"Image": "270",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Shuri",
+		"Klasse": "Technologie",
+		"Image": "247",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Silk",
+		"Klasse": "Forschung",
+		"Image": "277",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Silver Centurion",
+		"Klasse": "Technologie",
+		"Image": "204",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Silver Sable",
+		"Klasse": "Talent",
+		"Image": "298",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Silver Surfer",
+		"Klasse": "Kosmos",
+		"Image": "170",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Skorpion",
+		"Klasse": "Forschung",
+		"Image": "231",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Sorcerer Supreme",
+		"Klasse": "Mystisch",
+		"Image": "178",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Spider-Gwen",
+		"Klasse": "Forschung",
+		"Image": "066",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Spider-Ham",
+		"Klasse": "Forschung",
+		"Image": "195",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Spider-Man (Klassisch)",
+		"Klasse": "Forschung",
+		"Image": "067",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Spider-Man (Miles Morales)",
+		"Klasse": "Forschung",
+		"Image": "068",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Spider-Man (Stark Aufgerüstet)",
+		"Klasse": "Technologie",
+		"Image": "011",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Spider-Man (Supreme)",
+		"Klasse": "Mystisch",
+		"Image": "249",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Spider-Man (Symbiont)",
+		"Klasse": "Kosmos",
+		"Image": "104",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Spider-Man (Tarnanzug)",
+		"Klasse": "Talent",
+		"Image": "155",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Spider-Man 2099",
+		"Klasse": "Forschung",
+		"Image": "209",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Spider-Punk",
+		"Klasse": "Forschung",
+		"Image": "299",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Spot",
+		"Klasse": "Forschung",
+		"Image": "248",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Squirrel Girl",
+		"Klasse": "Talent",
+		"Image": "166",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Star-Lord",
+		"Klasse": "Technologie",
+		"Image": "135",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Storm",
+		"Klasse": "Mutant",
+		"Image": "048",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Storm (Pyramid X)",
+		"Klasse": "Mutant",
+		"Image": "181",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Stryfe",
+		"Klasse": "Mutant",
+		"Image": "201",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Sunspot",
+		"Klasse": "Mutant",
+		"Image": "156",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": [
+			"Einäschern"
+		]
+	},
+	{
+		"Name": "Superior Iron Man",
+		"Klasse": "Kosmos",
+		"Image": "105",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Super-Skrull",
+		"Klasse": "Kosmos",
+		"Image": "200",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Symbiont Supreme",
+		"Klasse": "Mystisch",
+		"Image": "081",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Taskmaster",
+		"Klasse": "Talent",
+		"Image": "029",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Terrax",
+		"Klasse": "Kosmos",
+		"Image": "175",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": [
+			"Schock"
+		]
+	},
+	{
+		"Name": "Thanos",
+		"Klasse": "Kosmos",
+		"Image": "149",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "The Hood",
+		"Klasse": "Mystisch",
+		"Image": "082",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Thor",
+		"Klasse": "Kosmos",
+		"Image": "106",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Thor (Jane Foster)",
+		"Klasse": "Mystisch",
+		"Image": "083",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Thor (Ragnarök)",
+		"Klasse": "Talent",
+		"Image": "030",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Tigra",
+		"Klasse": "Mystisch",
+		"Image": "182",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Titania",
+		"Klasse": "Forschung",
+		"Image": "244",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Toad",
+		"Klasse": "Mutant",
+		"Image": "220",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Ultron",
+		"Klasse": "Technologie",
+		"Image": "129",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Ultron (Klassisch)",
+		"Klasse": "Technologie",
+		"Image": "128",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Unaufhaltsamer Colossus",
+		"Klasse": "Mystisch",
+		"Image": "084",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Valkyrie",
+		"Klasse": "Talent",
+		"Image": "237",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Venom",
+		"Klasse": "Kosmos",
+		"Image": "107",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Venom die Ente",
+		"Klasse": "Technologie",
+		"Image": "150",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Venompool",
+		"Klasse": "Kosmos",
+		"Image": "108",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Vision",
+		"Klasse": "Technologie",
+		"Image": "136",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Vision (Aarkus)",
+		"Klasse": "Kosmos",
+		"Image": "160",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Vision (Age of Ultron)",
+		"Klasse": "Technologie",
+		"Image": "010",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Vision (Todlos)",
+		"Klasse": "Technologie",
+		"Image": "310",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Viv Vision",
+		"Klasse": "Technologie",
+		"Image": "267",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Void",
+		"Klasse": "Forschung",
+		"Image": "069",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": [
+			"Einäschern"
+		]
+	},
+	{
+		"Name": "Vox",
+		"Klasse": "Kosmos",
+		"Image": "284",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "War Machine",
+		"Klasse": "Technologie",
+		"Image": "137",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Warlock",
+		"Klasse": "Technologie",
+		"Image": "157",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Wasp",
+		"Klasse": "Forschung",
+		"Image": "070",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Werwolf bei Nacht",
+		"Klasse": "Mystisch",
+		"Image": "285",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "White Tiger",
+		"Klasse": "Forschung",
+		"Image": "300",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Wiccan",
+		"Klasse": "Mystisch",
+		"Image": "233",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Winter Soldier",
+		"Klasse": "Talent",
+		"Image": "031",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Wolverine",
+		"Klasse": "Mutant",
+		"Image": "049",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Wolverine (Weapon X)",
+		"Klasse": "Mutant",
+		"Image": "189",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Wolverine (X-23)",
+		"Klasse": "Mutant",
+		"Image": "050",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Wong",
+		"Klasse": "Mystisch",
+		"Image": "234",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Yellow Jacket",
+		"Klasse": "Forschung",
+		"Image": "009",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	},
+	{
+		"Name": "Yondu",
+		"Klasse": "Technologie",
+		"Image": "138",
+		"Tags": [""],
+		"Skills": [],
+		"Immunities": []
+	}
+]
