@@ -24,9 +24,17 @@ export default function Home() {
     fetch("../data/squad.json")
     .then(res=>res.json())
     .then(function(data){
+      data.sort(sortPerson);
       dispatch(setSquads(data))
     })
-  },[])
+  },[]);
+
+  const english = new Intl.Collator("de-DE", { usage: "sort" });
+  function sortPerson(person1:any, person2:any) {
+    let ergebnis = english.compare(person2.PowerIndex, person1.PowerIndex);
+   
+    return ergebnis;
+ }
 
   return (
     <>

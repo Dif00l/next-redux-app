@@ -15,9 +15,15 @@ export const championsSlice = createSlice({
     reducers:{
         setChampions(state, action){
             state.champions = action.payload;
+        },
+        sortChampions(state, action){
+            var temp = state.champions;
+
         }
+
     }
 });
+
 
 export const{setChampions} = championsSlice.actions;
 
