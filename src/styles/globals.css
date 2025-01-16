@@ -16,7 +16,13 @@
   background-color: #4d636f;
   padding: 8px 16px;
   height: 80px;
+  width:100%;
   text-align: center;
+  position: fixed;
+}
+
+.Sec_List{
+  padding-top:100px;
 }
 
 table{

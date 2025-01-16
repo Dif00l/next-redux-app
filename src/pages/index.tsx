@@ -96,6 +96,7 @@ export default function Home() {
           })
         }
       </div>
+      <div className="Sec_List">
       <table align="center" cellSpacing="0" cellPadding="0" style={{display:"none"}}>
         <thead></thead>
         <tbody>
@@ -125,7 +126,8 @@ export default function Home() {
           })
         }
         </tbody>       
-      </table>          
+      </table>   
+      </div>       
     </>
   )
 }

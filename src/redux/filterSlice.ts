@@ -6,7 +6,7 @@ export interface FilterState{
 }
 
 const initialState: FilterState = {
-    klassen: [{Mutant:{"Value":1},Talent:{"Value":1},Forschung:{"Value":1},Mystisch:{"Value":0},Kosmos:{"Value":1},Technologie:{"Value":1}}]
+    klassen: [{Mutant:{"Value":1},Talent:{"Value":1},Forschung:{"Value":1},Mystisch:{"Value":1},Kosmos:{"Value":1},Technologie:{"Value":1}}]
 };
 
 export const filterSlice = createSlice({
