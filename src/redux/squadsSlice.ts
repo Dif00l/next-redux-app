@@ -6,7 +6,13 @@ export interface SquadsState{
 }
 
 const initialState: SquadsState = {
-    squads: [{}]
+    squads: [{ "Name":"Nick Fury",
+        "PowerIndex":"26.854",
+        "Tier":"6",
+        "Rang":"4",
+        "Awaken":"1",
+        "Image":"111",
+        "Klasse":"Talent"}]
 };
 
 export const squadsSlice = createSlice({

@@ -2,13 +2,15 @@ import { configureStore } from "@reduxjs/toolkit";
 import { cartSlice } from "./cartSlice";
 import { championsSlice } from "./championsSlice";
 import { squadsSlice } from "./squadsSlice";
+import { filterSlice } from "./filterSlice";
 import {createWrapper} from "next-redux-wrapper";
 
 const makeStore = () => configureStore({
     reducer:{
         [cartSlice.name]: cartSlice.reducer,
         [championsSlice.name]: championsSlice.reducer,
-        [squadsSlice.name]: squadsSlice.reducer
+        [squadsSlice.name]: squadsSlice.reducer,
+        [filterSlice.name]: filterSlice.reducer
     },
     devTools:true,
 });

@@ -71,5 +71,13 @@
         "Awaken":"1",
         "Image":"107",
         "Klasse":"Kosmos"
+    },{
+        "Name":"Rocket Racoon",
+        "PowerIndex":"21.610",
+        "Tier":"7",
+        "Rang":"1",
+        "Awaken":"1",
+        "Image":"124",
+        "Klasse":"Technologie"
     }
 ]
