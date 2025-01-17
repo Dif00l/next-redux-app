@@ -17,6 +17,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/components/Champion/Champion.js", "src/components/Dialog/Dialog.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/components/Champion/Champion.js", "src/components/Dialog/Dialog.jsx"],
   "exclude": ["node_modules"]
 }

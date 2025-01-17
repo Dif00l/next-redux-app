@@ -1,28 +1,25 @@
 import React from "react";
-
+import $ from "jquery";
 import { useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { getChampions, addChampion, setChampions } from "@/redux/championsSlice";
-import { getSquads, setSquads } from "@/redux/squadsSlice";
+import { getSquads, setSquads, sortSquad } from "@/redux/squadsSlice";
 
-export default function Dialog(props:any){
+export default function Dialog(props){
 
     const champions = useSelector(getChampions);
     const squad = useSelector(getSquads);
     const [DialogShow,setDialogShow] = useState("block");
     const dispatch = useDispatch();
 
-
-
-
-    function clickAdd(e:any){
-        const DialogChampion = "test";//$("#Dialog-Champion").val();
-        const DialogTier = "7";//$('input[name="DialogTier"]:checked').val();
-        const DialogRang = "5";//$('input[name="DialogRang"]:checked').val();
-        const DialogAwaken = "1";//$('input[name="DialogAwaken"]:checked').val();
-        const DialogPI = "1234";//$("#Dialog-PowerIndex").val();
-        const DialogImage = "051";//$("#Dialog-Champion option:selected").data('image');
-        const DialogKlasse = "Mutant";//$("#Dialog-Champion option:selected").data('klasse');
+    function clickAdd(e){      
+        const DialogChampion = $("#Dialog-Champion").val();
+        const DialogTier = $('input[name="DialogTier"]:checked').val();
+        const DialogRang = $('input[name="DialogRang"]:checked').val();
+        const DialogAwaken = $('input[name="DialogAwaken"]:checked').val();
+        const DialogPI = $("#Dialog-PowerIndex").val();
+        const DialogImage = $("#Dialog-Champion option:selected").data('image');
+        const DialogKlasse = $("#Dialog-Champion option:selected").data('klasse');
         const temp ={"Name":DialogChampion,"PowerIndex":DialogPI,"Tier":DialogTier,"Rang":DialogRang,"Awaken":DialogAwaken,"Image":DialogImage,"Klasse":DialogKlasse};
         const sq = new Array();  
         squad.map((mem,index)=>{
@@ -30,21 +27,21 @@ export default function Dialog(props:any){
         })
         sq.push(temp)
         dispatch(setSquads(sq));
-       
-        fetch('./writeFile.ts?path=test')
-        .then(res => res.text()).then(res => console.log(res))
+        const requestOptions = {
+			method: 'POST',headers:{'Accept': 'application/json','Content-Type': 'application/json'},
+			body: JSON.stringify(sq)};
+        fetch('http://localhost:3000/api/saveSquad',requestOptions); 
+            
     }
 
-    function download(content:any, fileName:any, contentType:any) {
-        var a = document.createElement("a");
-        var file = new Blob([content], {type: contentType});
-        a.href = URL.createObjectURL(file);
-        a.download = fileName;
-        a.click();
-    }
-
+   
     function clickClose(){
         setDialogShow("none");
+       
+    }
+
+    function clickDelete(){
+       
        
     }
 
@@ -58,7 +55,7 @@ export default function Dialog(props:any){
                         <tr>
                             <td>Champion</td><td><select id="Dialog-Champion">
                                 {
-                                     champions.map((champ:any, index)=>{
+                                     champions.map((champ, index)=>{
                                         return(
                                             <option key={"champoption_"+index} value={champ.Name} data-image={champ.Image} data-klasse={champ.Klasse}>{champ.Name}</option>
                                         )
@@ -104,6 +101,7 @@ export default function Dialog(props:any){
                 <div className="Dialog-Footer">
                     <div className="Button" onClick={clickAdd}>Add</div>
                     <div className="Button" onClick={clickClose}>Close</div>
+                    <div className="Button" onClick={clickDelete}>Delete</div>
                 </div>             
             </div>
 
