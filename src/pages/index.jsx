@@ -1,17 +1,18 @@
-import { getItemsInCart, setItemsInCart } from "@/redux/cartSlice";
+
 import { getChampions, setChampions } from "@/redux/championsSlice";
 import { useSelector, useDispatch } from "react-redux";
 import { useEffect, useState } from "react";
 import Champion from "../components/Champion/Champion";
 import { getSquads, setSquads } from "@/redux/squadsSlice";
 import { getFilter, setMutant, setTalent, setForschung, setMystisch, setKosmos, setTechnologie } from "@/redux/filterSlice";
+import Dialog from "@/components/Dialog/Dialog";
 
 export default function Home() {
   const [Klassen] = useState(["Mutant","Talent","Forschung","Mystisch","Kosmos","Technologie"]);
  
-  const champions: any = useSelector(getChampions);
-  const squads: any = useSelector(getSquads);
-  const filter: any = useSelector(getFilter);
+  const champions = useSelector(getChampions);
+  const squads = useSelector(getSquads);
+  const filter = useSelector(getFilter);
   const dispatch = useDispatch();
 
   useEffect(()=>{
@@ -28,7 +29,16 @@ export default function Home() {
     })
   },[]);
 
-  function filterClick(e:any){
+  useEffect(()=>{
+    fetch("../data/squad.json")
+    .then(res=>res.json())
+    .then(function(data){
+      data.sort(sortPerson);
+      dispatch(setSquads(data))
+    })
+  },[champions]);
+
+  function filterClick(e){
     var id = e.target.id;
     id = id.replace("cl_","");
     if( filter[0][id].Value == "1" ){
@@ -77,7 +87,7 @@ export default function Home() {
   }
 
   const english = new Intl.Collator("de-DE", { usage: "sort" });
-  function sortPerson(person1:any, person2:any) {
+  function sortPerson(person1, person2) {
     let ergebnis = english.compare(person2.PowerIndex, person1.PowerIndex);
    
     return ergebnis;
@@ -101,8 +111,8 @@ export default function Home() {
         <thead></thead>
         <tbody>
         {
-          champions.map((champ: any, index: any)=>{
-            if( Klassen.indexOf(champ.Klasse) > -1 && typeof(champ.Tier) == "undefined" ){
+          champions.map((champ, index)=>{
+            if( Klassen.indexOf(champ.Klasse) > -1 && typeof(champ.Tier) == "undefined" ){             
               if( filter[0][champ.Klasse].Value == "0" ){
                 return(             
                   <Champion key={"champ_"+index} idx={index} champ={champ}/>
@@ -117,7 +127,7 @@ export default function Home() {
         <thead></thead>
         <tbody>
         {
-          squads.map((sq: any,index: any)=>{
+          squads.map((sq,index)=>{
             if( filter[0][sq.Klasse]["Value"] == "1" ){
               return(             
                 <Champion key={"squad_"+index} idx={index} champ={sq}/>
@@ -127,7 +137,8 @@ export default function Home() {
         }
         </tbody>       
       </table>   
-      </div>       
+      </div>
+      <Dialog/>       
     </>
   )
 }

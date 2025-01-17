@@ -19,13 +19,16 @@ export const championsSlice = createSlice({
         sortChampions(state, action){
             var temp = state.champions;
 
+        },
+        addChampion(state, action){
+            state.champions = action.payload;
         }
 
     }
 });
 
 
-export const{setChampions} = championsSlice.actions;
+export const{setChampions, addChampion} = championsSlice.actions;
 
 export const getChampions = (state: AppState) => state.champions.champions;
 

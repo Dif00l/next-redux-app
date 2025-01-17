@@ -21,6 +21,9 @@ export const squadsSlice = createSlice({
     reducers:{
         setSquads(state, action){
             state.squads = action.payload;
+        },
+        saveSquads(state,action){
+            
         }
     }
 });
