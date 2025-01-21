@@ -30,7 +30,7 @@ export default function Dialog(props){
         const requestOptions = {
 			method: 'POST',headers:{'Accept': 'application/json','Content-Type': 'application/json'},
 			body: JSON.stringify(sq)};
-        fetch('http://localhost/api/saveSquad',requestOptions); 
+        fetch('./api/saveSquad',requestOptions); 
             
     }
 
