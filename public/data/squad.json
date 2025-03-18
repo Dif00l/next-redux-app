@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "Guardian",
-		"PowerIndex": "34729",
+		"PowerIndex": "34.729",
 		"Tier": "7",
 		"Rang": "3",
 		"Awaken": "1",
@@ -23,7 +23,7 @@
 		"Tier": "6",
 		"Rang": "5",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "219",
 		"Klasse": "Kosmos"
 	},
 	{
@@ -32,7 +32,7 @@
 		"Tier": "7",
 		"Rang": "3",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "034",
 		"Klasse": "Mutant"
 	},
 	{
