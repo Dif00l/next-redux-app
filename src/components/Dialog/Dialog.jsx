@@ -9,7 +9,7 @@ export default function Dialog(props){
 
     const champions = useSelector(getChampions);
     const squad = useSelector(getSquads);
-    const [DialogShow,setDialogShow] = useState("block");
+    const [DialogShow,setDialogShow] = useState("none");
     const dispatch = useDispatch();
 
     function clickAdd(e){      
