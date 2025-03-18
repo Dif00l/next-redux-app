@@ -32,7 +32,7 @@
 		"Tier": "7",
 		"Rang": "3",
 		"Awaken": "0",
-		"Image": "034",
+		"Image": "037",
 		"Klasse": "Mutant"
 	},
 	{
@@ -41,7 +41,7 @@
 		"Tier": "6",
 		"Rang": "5",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "301",
 		"Klasse": "Kosmos"
 	},
 	{
@@ -50,7 +50,7 @@
 		"Tier": "6",
 		"Rang": "5",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "069",
 		"Klasse": "Forschung"
 	},
 	{
@@ -59,7 +59,7 @@
 		"Tier": "6",
 		"Rang": "5",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "190",
 		"Klasse": "Kosmos"
 	},
 	{
@@ -68,7 +68,7 @@
 		"Tier": "6",
 		"Rang": "4",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "111",
 		"Klasse": "Talent"
 	},
 	{
@@ -77,7 +77,7 @@
 		"Tier": "6",
 		"Rang": "4",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "303",
 		"Klasse": "Mutant"
 	},
 	{
@@ -86,7 +86,7 @@
 		"Tier": "6",
 		"Rang": "4",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "138",
 		"Klasse": "Technologie"
 	},
 	{
@@ -95,16 +95,16 @@
 		"Tier": "6",
 		"Rang": "4",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "024",
 		"Klasse": "Talent"
 	},
 	{
 		"Name": "Lady Deathstrike",
-		"PowerIndex": "25535",
+		"PowerIndex": "25.535",
 		"Tier": "7",
 		"Rang": "2",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "279",
 		"Klasse": "Technologie"
 	}
 ]
