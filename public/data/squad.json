@@ -16,7 +16,7 @@
 		"Awaken": "1",
 		"Image": "164",
 		"Klasse": "Mystisch",
-		"Immu":["Rüstungsbruch","Schock","Zerschmetterte Rüstung"]
+		"Immu":[{"Name":"Rüstungsbruch"},{"Name":"Schock"},{"Name":"Zerschmetterte Rüstung"}]
 	},
 	{
 		"Name": "Herkules",
