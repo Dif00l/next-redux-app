@@ -12,7 +12,7 @@ export default function Champion(props:any){
             <td>{champ.PowerIndex}</td>
             <td>{
               champ.Immu.map((im:any,index:any)=>{
-                  return(<div>{im}</div>)
+                  return(<div>{im.Name}</div>)
               })
             }</td>
         </tr>
