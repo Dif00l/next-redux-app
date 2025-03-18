@@ -3,6 +3,7 @@ import React from 'react';
 export default function Champion(props:any){
 
     var champ = props.champ;
+    var immu = props.champ.Immu;
 
     return(
         <tr key="champ_"><td>{champ.Name}</td>
@@ -11,7 +12,7 @@ export default function Champion(props:any){
             <td>{champ.Klasse}</td>
             <td>{champ.PowerIndex}</td>
             <td>{
-              champ.Immu.map((im:any,index:any)=>{
+              immu.map((im:any,index:any)=>{
                   return(<div>{im.Name}</div>)
               })
             }</td>
