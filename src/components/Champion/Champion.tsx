@@ -11,8 +11,8 @@ export default function Champion(props:any){
             </td>
             <td>{champ.Klasse}</td>
             <td>{champ.PowerIndex}</td>
-            <td>{            
-                  return(<div>{immu}</div>)
+            <td>{     
+                 immu
               }
             }</td>
         </tr>
