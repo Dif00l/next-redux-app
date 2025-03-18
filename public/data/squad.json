@@ -15,7 +15,8 @@
 		"Rang": "5",
 		"Awaken": "1",
 		"Image": "164",
-		"Klasse": "Mystisch"
+		"Klasse": "Mystisch",
+		"Immu":["Rüstungsbruch","Schock","Zerschmetterte Rüstung"]
 	},
 	{
 		"Name": "Herkules",
