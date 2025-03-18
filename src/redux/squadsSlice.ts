@@ -8,8 +8,8 @@ export interface SquadsState{
 const initialState: SquadsState = {
     squads: [{ "Name":"Nick Fury",
         "PowerIndex":"0",
-        "Tier":"0",
-        "Rang":"0",
+        "Tier":"7",
+        "Rang":"5",
         "Awaken":"0",
         "Image":"000",
         "Klasse":"Talent"}]
