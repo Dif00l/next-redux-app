@@ -13,7 +13,7 @@ export default function Champion(props:any){
             <td>{champ.PowerIndex}</td>
             <td>{            
                   return(<div>{immu}</div>)
-              })
+              }
             }</td>
         </tr>
     )
