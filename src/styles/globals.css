@@ -37,7 +37,7 @@ body {
   overflow-x: hidden;
 }
 
-td:nth-child(1),td:nth-child(3),td:nth-child(4){
+td:nth-child(1),td:nth-child(3),td:nth-child(4),td:nth-child(5){
   padding: 8px 16px;
   border-bottom: 1px solid #e5e7eb;
 }
