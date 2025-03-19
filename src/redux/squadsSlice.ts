@@ -12,7 +12,8 @@ const initialState: SquadsState = {
         "Rang":"5",
         "Awaken":"0",
         "Image":"000",
-        "Klasse":"Talent"}]
+        "Klasse":"Talent",
+        "Immu":[]}]
 };
 
 export const squadsSlice = createSlice({
