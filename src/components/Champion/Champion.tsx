@@ -11,9 +11,11 @@ export default function Champion(props:any){
             </td>
             <td>{champ.Klasse}</td>
             <td>{champ.PowerIndex}</td>
-            <td>{
-                champ.Immu
-            }</td>
+            <td>
+                {champ.Immu.map((subItem, index) => (
+        <div item={subItem} depth={depth + 1} >subItem</div>
+      ))}
+            </td>
         </tr>
     )
 }
