@@ -27,7 +27,10 @@
 		"Awaken": "1",
 		"Image": "219",
 		"Klasse": "Kosmos",
-		"Immu":[]
+		"Immu":[
+			"-50% Blutrausch",
+			"-15% Gift"
+		]
 	},
 	{
 		"Name": "Domino",
@@ -47,7 +50,14 @@
 		"Awaken": "1",
 		"Image": "301",
 		"Klasse": "Kosmos",
-		"Immu":[]
+		"Immu":[
+			"Kraftverlust",
+			"Superkraftverlust",
+			"Heilblockade",
+			"Besiegeltes Schicksal",
+			"Kälteeinbruch",
+			"-90% Blutrausch"
+		]
 	},
 	{
 		"Name": "Void",
