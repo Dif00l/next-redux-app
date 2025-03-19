@@ -125,7 +125,7 @@
 		"Tier": "6",
 		"Rang": "4",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "054",
 		"Klasse": "Forschung",
 		"Immu":[]
 	},
@@ -145,7 +145,7 @@
 		"Tier": "6",
 		"Rang": "4",
 		"Awaken": "1",
-		"Image": "0",
+		"Image": "107",
 		"Klasse": "Kosmos",
 		"Immu":[]
 	},
@@ -165,7 +165,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "107",
 		"Klasse": "Kosmos",
 		"Immu":[]
 	},
@@ -185,7 +185,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "124",
 		"Klasse": "Technologie",
 		"Immu":[]
 	},
@@ -195,7 +195,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "150",
 		"Klasse": "Kosmos",
 		"Immu":[]
 	},
@@ -205,7 +205,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "067",
 		"Klasse": "Forschung",
 		"Immu":[]
 	},
@@ -215,7 +215,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "163",
 		"Klasse": "Technologie",
 		"Immu":[]
 	},
@@ -235,7 +235,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "156",
 		"Klasse": "Mutant",
 		"Immu":[]
 	},
@@ -245,7 +245,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "123",
 		"Klasse": "Technologie",
 		"Immu":[]
 	},
@@ -255,7 +255,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "143",
 		"Klasse": "Mystisch",
 		"Immu":[]
 	},
@@ -365,7 +365,7 @@
 		"Tier": "6",
 		"Rang": "4",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "156",
 		"Klasse": "Mutant",
 		"Immu":[]
 	},
@@ -415,7 +415,7 @@
 		"Tier": "6",
 		"Rang": "4",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "157",
 		"Klasse": "Technologie",
 		"Immu":[
 			"Blutrausch",
@@ -438,7 +438,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "120",
 		"Klasse": "Technologie",
 		"Immu":[]
 	},
@@ -498,7 +498,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "109",
 		"Klasse": "Forschung",
 		"Immu":[
 			"Blutrausch"
@@ -510,7 +510,7 @@
 		"Tier": "6",
 		"Rang": "4",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "110",
 		"Klasse": "Forschung",
 		"Immu":[]
 	},
@@ -530,7 +530,7 @@
 		"Tier": "6",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "085",
 		"Klasse": "Kosmos",
 		"Immu":[]
 	},

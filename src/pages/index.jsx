@@ -25,6 +25,7 @@ export default function Home() {
     .then(res=>res.json())
     .then(function(data){
       data.sort(sortPerson);
+		console.log(data.length);
       dispatch(setSquads(data))
     })
   },[]);
@@ -34,8 +35,7 @@ export default function Home() {
     .then(res=>res.json())
     .then(function(data){
       data.sort(sortPerson);
-	typeOf(data)
-      dispatch(setSquads(data))
+	  dispatch(setSquads(data))
     })
   },[champions]);
 
