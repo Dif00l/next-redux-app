@@ -118,5 +118,295 @@
 		"Image": "279",
 		"Klasse": "Technologie",
 		"Immu":[]
-	}
+	},
+	{
+		"Name": "Captain America (Infinity War)",
+		"PowerIndex": "25.430",
+		"Tier": "6",
+		"Rang": "4",
+		"Awaken": "1",
+		"Image": "000",
+		"Klasse": "Forschung",
+		"Immu":[]
+	},
+	{
+		"Name": "Black Widow (Deadly Origin)",
+		"PowerIndex": "25.040",
+		"Tier": "7",
+		"Rang": "2",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Talent",
+		"Immu":[]
+	},
+	{
+		"Name": "Venom",
+		"PowerIndex": "24.280",
+		"Tier": "6",
+		"Rang": "4",
+		"Awaken": "1",
+		"Image": "0",
+		"Klasse": "Kosmos",
+		"Immu":[]
+	},
+	{
+		"Name": "Gambit",
+		"PowerIndex": "23.982",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "1",
+		"Image": "000",
+		"Klasse": "Mutant",
+		"Immu":[]
+	},
+	{
+		"Name": "Venom",
+		"PowerIndex": "22.567",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Kosmos",
+		"Immu":[]
+	},
+	{
+		"Name": "Falcon",
+		"PowerIndex": "22.376",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "1",
+		"Image": "000",
+		"Klasse": "Talent",
+		"Immu":[]
+	},
+	{
+		"Name": "Rocket Raccoon",
+		"PowerIndex": "22.034",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "1",
+		"Image": "000",
+		"Klasse": "Technologie",
+		"Immu":[]
+	},
+	{
+		"Name": "Venom die Ente",
+		"PowerIndex": "21.720",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "1",
+		"Image": "000",
+		"Klasse": "Kosmos",
+		"Immu":[]
+	},
+	{
+		"Name": "Spider-Man (klassisch)",
+		"PowerIndex": "21.660",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "1",
+		"Image": "000",
+		"Klasse": "Forschung",
+		"Immu":[]
+	},
+	{
+		"Name": "Guilliotine 2099",
+		"PowerIndex": "21.340",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "1",
+		"Image": "000",
+		"Klasse": "Technologie",
+		"Immu":[]
+	},
+	{
+		"Name": "Emma Frost",
+		"PowerIndex": "20.890",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "1",
+		"Image": "000",
+		"Klasse": "Mutant",
+		"Immu":[]
+	},
+	{
+		"Name": "Sunspot",
+		"PowerIndex": "20.780",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Mutant",
+		"Immu":[]
+	},
+	{
+		"Name": "Punisher 2099",
+		"PowerIndex": "20.730",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "1",
+		"Image": "000",
+		"Klasse": "Technologie",
+		"Immu":[]
+	},
+	{
+		"Name": "Ebony Maw",
+		"PowerIndex": "20.658",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Mystisch",
+		"Immu":[]
+	},
+	{
+		"Name": "Captain America (Sam Wilson)",
+		"PowerIndex": "20.630",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "1",
+		"Image": "000",
+		"Klasse": "Technologie",
+		"Immu":[]
+	},
+	{
+		"Name": "Hit Monkey",
+		"PowerIndex": "20.380",
+		"Tier": "6",
+		"Rang": "4",
+		"Awaken": "1",
+		"Image": "000",
+		"Klasse": "Talent",
+		"Immu":[]
+	},
+	{
+		"Name": "Kindred",
+		"PowerIndex": "20.164",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Mystisch",
+		"Immu":[]
+	},
+	{
+		"Name": "Mantis",
+		"PowerIndex": "20.140",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Talent",
+		"Immu":[]
+	},
+	{
+		"Name": "Bishop",
+		"PowerIndex": "20.088",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Mutant",
+		"Immu":[]
+	},
+	{
+		"Name": "Jabari Panther",
+		"PowerIndex": "20.068",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Talent",
+		"Immu":[]
+	},
+	{
+		"Name": "Wiccan",
+		"PowerIndex": "20.000",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Mystisch",
+		"Immu":[]
+	},
+	{
+		"Name": "Storm (Pyramid X)",
+		"PowerIndex": "19.980",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Mutant",
+		"Immu":[]
+	},
+	{
+		"Name": "Terrax",
+		"PowerIndex": "19.825",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Kosmos",
+		"Immu":[]
+	},
+	{
+		"Name": "Gorr",
+		"PowerIndex": "19.650",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Kosmos",
+		"Immu":[]
+	},
+	{
+		"Name": "Sunspot",
+		"PowerIndex": "19.609",
+		"Tier": "6",
+		"Rang": "4",
+		"Awaken": "1",
+		"Image": "000",
+		"Klasse": "Mutant",
+		"Immu":[]
+	},
+	{
+		"Name": "Isophyne",
+		"PowerIndex": "19.600",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Mystisch",
+		"Immu":[]
+	},
+	{
+		"Name": "Wong",
+		"PowerIndex": "19.570",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Mystisch",
+		"Immu":[]
+	},
+	{
+		"Name": "Black Panther",
+		"PowerIndex": "19.570",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Talent",
+		"Immu":[]
+	},
+	{
+		"Name": "Isophyne",
+		"PowerIndex": "19.600",
+		"Tier": "7",
+		"Rang": "1",
+		"Awaken": "0",
+		"Image": "000",
+		"Klasse": "Mystisch",
+		"Immu":[]
+	}				
 ]
