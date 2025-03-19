@@ -417,7 +417,10 @@
 		"Awaken": "1",
 		"Image": "000",
 		"Klasse": "Technologie",
-		"Immu":[]
+		"Immu":[
+			"Blutrausch",
+			"Gift"
+		]
 	},
 	{
 		"Name": "War Machine",
@@ -497,7 +500,9 @@
 		"Awaken": "0",
 		"Image": "000",
 		"Klasse": "Forschung",
-		"Immu":[]
+		"Immu":[
+			"Blutrausch"
+		]
 	},
 	{
 		"Name": "Die menschliche Fackel",
@@ -547,7 +552,11 @@
 		"Awaken": "0",
 		"Image": "000",
 		"Klasse": "Technologie",
-		"Immu":[]
+		"Immu":[
+			"Blutrausch",
+			"Einäschern",
+			"Schwanken"
+		]
 	},
 	{
 		"Name": "Vox",
@@ -557,6 +566,8 @@
 		"Awaken": "0",
 		"Image": "000",
 		"Klasse": "Kosmos",
-		"Immu":[]
+		"Immu":[
+			"Gift"
+		]
 	}																																		
 ]
