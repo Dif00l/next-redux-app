@@ -135,7 +135,7 @@
 		"Tier": "7",
 		"Rang": "2",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "180",
 		"Klasse": "Talent",
 		"Immu":[]
 	},
@@ -155,7 +155,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "039",
 		"Klasse": "Mutant",
 		"Immu":[]
 	},
@@ -175,7 +175,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "006",
 		"Klasse": "Talent",
 		"Immu":[]
 	},
@@ -225,7 +225,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "038",
 		"Klasse": "Mutant",
 		"Immu":[]
 	},
@@ -265,7 +265,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "224",
 		"Klasse": "Technologie",
 		"Immu":[]
 	},
@@ -275,7 +275,7 @@
 		"Tier": "6",
 		"Rang": "4",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "183",
 		"Klasse": "Talent",
 		"Immu":[]
 	},
@@ -285,7 +285,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "278",
 		"Klasse": "Mystisch",
 		"Immu":[]
 	},
@@ -295,7 +295,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "252",
 		"Klasse": "Talent",
 		"Immu":[]
 	},
@@ -305,7 +305,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "002",
 		"Klasse": "Mutant",
 		"Immu":[]
 	},
@@ -315,7 +315,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "203",
 		"Klasse": "Talent",
 		"Immu":[]
 	},
@@ -325,7 +325,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "233",
 		"Klasse": "Mystisch",
 		"Immu":[]
 	},
@@ -335,7 +335,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "181",
 		"Klasse": "Mutant",
 		"Immu":[]
 	},
@@ -345,7 +345,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "175",
 		"Klasse": "Kosmos",
 		"Immu":[]
 	},
@@ -355,7 +355,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "236",
 		"Klasse": "Kosmos",
 		"Immu":[]
 	},
@@ -375,7 +375,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "318",
 		"Klasse": "Mystisch",
 		"Immu":[]
 	},
@@ -385,7 +385,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "234",
 		"Klasse": "Mystisch",
 		"Immu":[]
 	},
@@ -395,18 +395,8 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "013",
 		"Klasse": "Talent",
-		"Immu":[]
-	},
-	{
-		"Name": "Isophyne",
-		"PowerIndex": "19.600",
-		"Tier": "7",
-		"Rang": "1",
-		"Awaken": "0",
-		"Image": "000",
-		"Klasse": "Mystisch",
 		"Immu":[]
 	},
 	{
@@ -428,7 +418,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "137",
 		"Klasse": "Technologie",
 		"Immu":[]
 	},
@@ -448,7 +438,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "197",
 		"Klasse": "Mystisch",
 		"Immu":[]
 	},
@@ -458,7 +448,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "285",
 		"Klasse": "Mystisch",
 		"Immu":[]
 	},
@@ -468,7 +458,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "023",
 		"Klasse": "Talent",
 		"Immu":[]
 	},
@@ -488,7 +478,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "287",
 		"Klasse": "Talent",
 		"Immu":[]
 	},
@@ -520,7 +510,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "184",
 		"Klasse": "Mystisch",
 		"Immu":[]
 	},
@@ -540,7 +530,7 @@
 		"Tier": "6",
 		"Rang": "4",
 		"Awaken": "1",
-		"Image": "000",
+		"Image": "304",
 		"Klasse": "Mystisch",
 		"Immu":[]
 	},
@@ -550,7 +540,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "292",
 		"Klasse": "Technologie",
 		"Immu":[
 			"Blutrausch",
@@ -564,7 +554,7 @@
 		"Tier": "7",
 		"Rang": "1",
 		"Awaken": "0",
-		"Image": "000",
+		"Image": "284",
 		"Klasse": "Kosmos",
 		"Immu":[
 			"Gift"
