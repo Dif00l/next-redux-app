@@ -21,7 +21,7 @@
 	},
 	{
 		"Name": "Herkules",
-		"PowerIndex": "32098",
+		"PowerIndex": "32.098",
 		"Tier": "6",
 		"Rang": "5",
 		"Awaken": "1",
@@ -34,7 +34,7 @@
 	},
 	{
 		"Name": "Domino",
-		"PowerIndex": "30962",
+		"PowerIndex": "30.962",
 		"Tier": "7",
 		"Rang": "3",
 		"Awaken": "0",
@@ -44,7 +44,7 @@
 	},
 	{
 		"Name": "Serpent",
-		"PowerIndex": "30595",
+		"PowerIndex": "30.595",
 		"Tier": "6",
 		"Rang": "5",
 		"Awaken": "1",
@@ -61,27 +61,33 @@
 	},
 	{
 		"Name": "Void",
-		"PowerIndex": "29895",
+		"PowerIndex": "29.895",
 		"Tier": "6",
 		"Rang": "5",
 		"Awaken": "1",
 		"Image": "069",
 		"Klasse": "Forschung",
-		"Immu":[]
+		"Immu":[
+			"Einäscherung"
+		]
 	},
 	{
 		"Name": "Kosmischer Ghost Rider",
-		"PowerIndex": "28560",
+		"PowerIndex": "28.560",
 		"Tier": "6",
 		"Rang": "5",
 		"Awaken": "1",
 		"Image": "190",
 		"Klasse": "Kosmos",
-		"Immu":[]
+		"Immu":[
+			"Blutrausch",
+			"Einäschern"
+			
+		]
 	},
 	{
 		"Name": "Nick Fury",
-		"PowerIndex": "26854",
+		"PowerIndex": "26.854",
 		"Tier": "6",
 		"Rang": "4",
 		"Awaken": "1",
@@ -91,17 +97,21 @@
 	},
 	{
 		"Name": "Onslaught",
-		"PowerIndex": "26711",
+		"PowerIndex": "26.711",
 		"Tier": "6",
 		"Rang": "4",
 		"Awaken": "1",
 		"Image": "303",
 		"Klasse": "Mutant",
-		"Immu":[]
+		"Immu":[
+			"-150% Blutrausch",
+			"-150% Einäschern",
+			"-150% Schock"
+		]
 	},
 	{
 		"Name": "Yondu",
-		"PowerIndex": "26481",
+		"PowerIndex": "26.481",
 		"Tier": "6",
 		"Rang": "4",
 		"Awaken": "1",
@@ -111,7 +121,7 @@
 	},
 	{
 		"Name": "Kingpin",
-		"PowerIndex": "25708",
+		"PowerIndex": "25.708",
 		"Tier": "6",
 		"Rang": "4",
 		"Awaken": "1",
@@ -127,7 +137,10 @@
 		"Awaken": "0",
 		"Image": "279",
 		"Klasse": "Technologie",
-		"Immu":[]
+		"Immu":[
+			"-90% Blutrausch",
+			"-90% Gift"
+		]
 	},
 	{
 		"Name": "Captain America (Infinity War)",
@@ -227,7 +240,10 @@
 		"Awaken": "1",
 		"Image": "163",
 		"Klasse": "Technologie",
-		"Immu":[]
+		"Immu":[
+			"Blutrausch",
+			"Gift"
+		]
 	},
 	{
 		"Name": "Emma Frost",
@@ -237,7 +253,19 @@
 		"Awaken": "1",
 		"Image": "038",
 		"Klasse": "Mutant",
-		"Immu":[]
+		"Immu":[
+			"In Diamantenform:",
+			"Blutrausch",
+			"Gift",
+			"Lähmung",
+			"Einäscherung",
+			"Schock",
+			"Frostbeulen",
+			"Kälteeinbruch",
+			"Erschöpfung",
+			"Gehirnerschütterung",
+			"Entkräftung"
+		]
 	},
 	{
 		"Name": "Sunspot",
@@ -247,7 +275,9 @@
 		"Awaken": "0",
 		"Image": "156",
 		"Klasse": "Mutant",
-		"Immu":[]
+		"Immu":[
+			"Einäscherung"
+		]
 	},
 	{
 		"Name": "Punisher 2099",
@@ -277,7 +307,9 @@
 		"Awaken": "1",
 		"Image": "224",
 		"Klasse": "Technologie",
-		"Immu":[]
+		"Immu":[
+			"+1 Aufrüstung Blutrausch -25%"
+		]
 	},
 	{
 		"Name": "Hit Monkey",
@@ -297,7 +329,13 @@
 		"Awaken": "0",
 		"Image": "278",
 		"Klasse": "Mystisch",
-		"Immu":[]
+		"Immu":[
+			"Gift",
+			"Einäscherung",
+			"Heilblockade",
+			"Weißglut",
+			"Einschüchterung"
+		]
 	},
 	{
 		"Name": "Mantis",
@@ -377,7 +415,9 @@
 		"Awaken": "1",
 		"Image": "156",
 		"Klasse": "Mutant",
-		"Immu":[]
+		"Immu":[
+			"Einäscherung"
+		]
 	},
 	{
 		"Name": "Isophyne",
