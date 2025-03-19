@@ -34,6 +34,7 @@ export default function Home() {
     .then(res=>res.json())
     .then(function(data){
       data.sort(sortPerson);
+	  console.log(data);
       dispatch(setSquads(data))
     })
   },[champions]);
