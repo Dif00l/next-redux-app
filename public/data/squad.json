@@ -7,7 +7,7 @@
 		"Awaken": "1",
 		"Image": "185",
 		"Klasse": "Technologie",
-		"Immu":[{}]
+		"Immu":[]
 	},
 	{
 		"Name": "Doktor Doom",
@@ -27,7 +27,7 @@
 		"Awaken": "1",
 		"Image": "219",
 		"Klasse": "Kosmos",
-		"Immu":[{}]
+		"Immu":[]
 	},
 	{
 		"Name": "Domino",
@@ -37,7 +37,7 @@
 		"Awaken": "0",
 		"Image": "037",
 		"Klasse": "Mutant",
-		"Immu":[{}]
+		"Immu":[]
 	},
 	{
 		"Name": "Serpent",
@@ -47,7 +47,7 @@
 		"Awaken": "1",
 		"Image": "301",
 		"Klasse": "Kosmos",
-		"Immu":[{}]
+		"Immu":[]
 	},
 	{
 		"Name": "Void",
@@ -57,7 +57,7 @@
 		"Awaken": "1",
 		"Image": "069",
 		"Klasse": "Forschung",
-		"Immu":[{}]
+		"Immu":[]
 	},
 	{
 		"Name": "Kosmischer Ghost Rider",
@@ -67,7 +67,7 @@
 		"Awaken": "1",
 		"Image": "190",
 		"Klasse": "Kosmos",
-		"Immu":[{}]
+		"Immu":[]
 	},
 	{
 		"Name": "Nick Fury",
@@ -77,7 +77,7 @@
 		"Awaken": "1",
 		"Image": "111",
 		"Klasse": "Talent",
-		"Immu":[{}]
+		"Immu":[]
 	},
 	{
 		"Name": "Onslaught",
@@ -87,7 +87,7 @@
 		"Awaken": "1",
 		"Image": "303",
 		"Klasse": "Mutant",
-		"Immu":[{}]
+		"Immu":[]
 	},
 	{
 		"Name": "Yondu",
@@ -97,7 +97,7 @@
 		"Awaken": "1",
 		"Image": "138",
 		"Klasse": "Technologie",
-		"Immu":[{}]
+		"Immu":[]
 	},
 	{
 		"Name": "Kingpin",
@@ -107,7 +107,7 @@
 		"Awaken": "1",
 		"Image": "024",
 		"Klasse": "Talent",
-		"Immu":[{}]
+		"Immu":[]
 	},
 	{
 		"Name": "Lady Deathstrike",
@@ -117,6 +117,6 @@
 		"Awaken": "0",
 		"Image": "279",
 		"Klasse": "Technologie",
-		"Immu":[{}]
+		"Immu":[]
 	}
 ]
