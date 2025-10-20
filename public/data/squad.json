@@ -556,10 +556,10 @@
 	},
 	{
 		"Name": "Sasquatch",
-		"PowerIndex": "18.700",
+		"PowerIndex": "43.060",
 		"Tier": "7",
-		"Rang": "1",
-		"Awaken": "0",
+		"Rang": "4",
+		"Awaken": "1",
 		"Image": "184",
 		"Klasse": "Mystisch",
 		"Immu":[]
