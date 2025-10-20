@@ -11,12 +11,12 @@ export default function Champion(props:any){
             <td>{champ.PowerIndex}</td>
              <td  style={{backgroundSize:"70%,100%,100%",backgroundPosition:"center,center",backgroundRepeat:"no-repeat",height:"87px",width:"107px",backgroundImage:'url("./images/champions/'+champ.Image+'.png"),url("./images/frames/t'+champ.Tier+'_portrait_frame.png"),url("./images/frames/class_'+champ.Klasse+'.png")'}}>
             </td>
-            {/*
-            <td>
+          
+            <td style={{display:"none"}}>
                 {champ.Immu.map((subItem:any, index:any) => (
         <div>{subItem}</div>
       ))}
-            </td>*/}
+            </td>
         </tr>
     )
 }
