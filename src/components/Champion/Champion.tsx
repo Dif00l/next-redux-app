@@ -11,7 +11,7 @@ export default function Champion(props:any){
             </td>
             <td>{champ.Klasse}</td>
             <td>{champ.PowerIndex}</td>
-            <td>
+            <td style={{display:"hidden"}}>
                 {champ.Immu.map((subItem:any, index:any) => (
         <div>{subItem}</div>
       ))}
